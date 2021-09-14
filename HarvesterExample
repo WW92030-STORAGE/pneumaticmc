@@ -1,0 +1,219 @@
+{
+  "widgets": {
+    "type": 9,
+    "value": [
+      {
+        "name": {
+          "type": 8,
+          "value": "start"
+        },
+        "x": {
+          "type": 3,
+          "value": -8
+        },
+        "y": {
+          "type": 3,
+          "value": 15
+        }
+      },
+      {
+        "coord1Variable": {
+          "type": 8,
+          "value": ""
+        },
+        "boxType": {
+          "type": 1,
+          "value": 0
+        },
+        "type": {
+          "type": 8,
+          "value": "box"
+        },
+        "z1": {
+          "type": 3,
+          "value": 8
+        },
+        "name": {
+          "type": 8,
+          "value": "area"
+        },
+        "x": {
+          "type": 3,
+          "value": 45
+        },
+        "y1": {
+          "type": 3,
+          "value": 3
+        },
+        "z2": {
+          "type": 3,
+          "value": 5
+        },
+        "y": {
+          "type": 3,
+          "value": 29
+        },
+        "x1": {
+          "type": 3,
+          "value": 8
+        },
+        "y2": {
+          "type": 3,
+          "value": 7
+        },
+        "coord2Variable": {
+          "type": 8,
+          "value": ""
+        },
+        "x2": {
+          "type": 3,
+          "value": 5
+        }
+      },
+      {
+        "name": {
+          "type": 8,
+          "value": "label"
+        },
+        "x": {
+          "type": 3,
+          "value": 30
+        },
+        "y": {
+          "type": 3,
+          "value": 18
+        }
+      },
+      {
+        "string": {
+          "type": 8,
+          "value": "LOOP"
+        },
+        "name": {
+          "type": 8,
+          "value": "text"
+        },
+        "x": {
+          "type": 3,
+          "value": 45
+        },
+        "y": {
+          "type": 3,
+          "value": 18
+        }
+      },
+      {
+        "string": {
+          "type": 8,
+          "value": "LOOP"
+        },
+        "name": {
+          "type": 8,
+          "value": "text"
+        },
+        "x": {
+          "type": 3,
+          "value": 7
+        },
+        "y": {
+          "type": 3,
+          "value": 26
+        }
+      },
+      {
+        "name": {
+          "type": 8,
+          "value": "jump"
+        },
+        "x": {
+          "type": 3,
+          "value": -8
+        },
+        "y": {
+          "type": 3,
+          "value": 26
+        }
+      },
+      {
+        "name": {
+          "type": 8,
+          "value": "jump"
+        },
+        "x": {
+          "type": 3,
+          "value": 30
+        },
+        "y": {
+          "type": 3,
+          "value": 51
+        }
+      },
+      {
+        "string": {
+          "type": 8,
+          "value": "LOOP"
+        },
+        "name": {
+          "type": 8,
+          "value": "text"
+        },
+        "x": {
+          "type": 3,
+          "value": 45
+        },
+        "y": {
+          "type": 3,
+          "value": 51
+        }
+      },
+      {
+        "string": {
+          "type": 8,
+          "value": "MANUAL SET"
+        },
+        "name": {
+          "type": 8,
+          "value": "comment"
+        },
+        "x": {
+          "type": 3,
+          "value": 70
+        },
+        "y": {
+          "type": 3,
+          "value": 27
+        }
+      },
+      {
+        "maxActions": {
+          "type": 3,
+          "value": 1
+        },
+        "useMaxActions": {
+          "type": 1,
+          "value": 0
+        },
+        "name": {
+          "type": 8,
+          "value": "harvest"
+        },
+        "x": {
+          "type": 3,
+          "value": 30
+        },
+        "y": {
+          "type": 3,
+          "value": 29
+        },
+        "requireHoe": {
+          "type": 1,
+          "value": 0
+        },
+        "order": {
+          "type": 3,
+          "value": 0
+        }
+      }
+    ]
+  }
+}
