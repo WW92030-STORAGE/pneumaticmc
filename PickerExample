@@ -1,0 +1,325 @@
+{
+  "widgets": {
+    "type": 9,
+    "value": [
+      {
+        "name": {
+          "type": 8,
+          "value": "start"
+        },
+        "x": {
+          "type": 3,
+          "value": -8
+        },
+        "y": {
+          "type": 3,
+          "value": 15
+        }
+      },
+      {
+        "name": {
+          "type": 8,
+          "value": "pickupItem"
+        },
+        "x": {
+          "type": 3,
+          "value": 30
+        },
+        "y": {
+          "type": 3,
+          "value": 29
+        }
+      },
+      {
+        "coord1Variable": {
+          "type": 8,
+          "value": ""
+        },
+        "boxType": {
+          "type": 1,
+          "value": 0
+        },
+        "type": {
+          "type": 8,
+          "value": "box"
+        },
+        "z1": {
+          "type": 3,
+          "value": 8
+        },
+        "name": {
+          "type": 8,
+          "value": "area"
+        },
+        "x": {
+          "type": 3,
+          "value": 45
+        },
+        "y1": {
+          "type": 3,
+          "value": 3
+        },
+        "z2": {
+          "type": 3,
+          "value": 5
+        },
+        "y": {
+          "type": 3,
+          "value": 29
+        },
+        "x1": {
+          "type": 3,
+          "value": 8
+        },
+        "y2": {
+          "type": 3,
+          "value": 7
+        },
+        "coord2Variable": {
+          "type": 8,
+          "value": ""
+        },
+        "x2": {
+          "type": 3,
+          "value": 5
+        }
+      },
+      {
+        "name": {
+          "type": 8,
+          "value": "label"
+        },
+        "x": {
+          "type": 3,
+          "value": 30
+        },
+        "y": {
+          "type": 3,
+          "value": 18
+        }
+      },
+      {
+        "string": {
+          "type": 8,
+          "value": "LOOP"
+        },
+        "name": {
+          "type": 8,
+          "value": "text"
+        },
+        "x": {
+          "type": 3,
+          "value": 45
+        },
+        "y": {
+          "type": 3,
+          "value": 18
+        }
+      },
+      {
+        "string": {
+          "type": 8,
+          "value": "LOOP"
+        },
+        "name": {
+          "type": 8,
+          "value": "text"
+        },
+        "x": {
+          "type": 3,
+          "value": 7
+        },
+        "y": {
+          "type": 3,
+          "value": 26
+        }
+      },
+      {
+        "name": {
+          "type": 8,
+          "value": "jump"
+        },
+        "x": {
+          "type": 3,
+          "value": -8
+        },
+        "y": {
+          "type": 3,
+          "value": 26
+        }
+      },
+      {
+        "name": {
+          "type": 8,
+          "value": "jump"
+        },
+        "x": {
+          "type": 3,
+          "value": 30
+        },
+        "y": {
+          "type": 3,
+          "value": 73
+        }
+      },
+      {
+        "string": {
+          "type": 8,
+          "value": "LOOP"
+        },
+        "name": {
+          "type": 8,
+          "value": "text"
+        },
+        "x": {
+          "type": 3,
+          "value": 45
+        },
+        "y": {
+          "type": 3,
+          "value": 73
+        }
+      },
+      {
+        "dropStraight": {
+          "type": 1,
+          "value": 0
+        },
+        "DOWN": {
+          "type": 1,
+          "value": 1
+        },
+        "NORTH": {
+          "type": 1,
+          "value": 1
+        },
+        "WEST": {
+          "type": 1,
+          "value": 1
+        },
+        "name": {
+          "type": 8,
+          "value": "dropItem"
+        },
+        "x": {
+          "type": 3,
+          "value": 30
+        },
+        "count": {
+          "type": 3,
+          "value": 1
+        },
+        "y": {
+          "type": 3,
+          "value": 51
+        },
+        "UP": {
+          "type": 1,
+          "value": 1
+        },
+        "SOUTH": {
+          "type": 1,
+          "value": 1
+        },
+        "useCount": {
+          "type": 1,
+          "value": 0
+        },
+        "EAST": {
+          "type": 1,
+          "value": 1
+        }
+      },
+      {
+        "coord1Variable": {
+          "type": 8,
+          "value": ""
+        },
+        "boxType": {
+          "type": 1,
+          "value": 0
+        },
+        "type": {
+          "type": 8,
+          "value": "box"
+        },
+        "z1": {
+          "type": 3,
+          "value": 12
+        },
+        "name": {
+          "type": 8,
+          "value": "area"
+        },
+        "x": {
+          "type": 3,
+          "value": 45
+        },
+        "y1": {
+          "type": 3,
+          "value": 5
+        },
+        "z2": {
+          "type": 3,
+          "value": 12
+        },
+        "y": {
+          "type": 3,
+          "value": 51
+        },
+        "x1": {
+          "type": 3,
+          "value": 15
+        },
+        "y2": {
+          "type": 3,
+          "value": 5
+        },
+        "coord2Variable": {
+          "type": 8,
+          "value": ""
+        },
+        "x2": {
+          "type": 3,
+          "value": 15
+        }
+      },
+      {
+        "string": {
+          "type": 8,
+          "value": "MANUAL SET"
+        },
+        "name": {
+          "type": 8,
+          "value": "comment"
+        },
+        "x": {
+          "type": 3,
+          "value": 70
+        },
+        "y": {
+          "type": 3,
+          "value": 27
+        }
+      },
+      {
+        "string": {
+          "type": 8,
+          "value": "MANUAL SET"
+        },
+        "name": {
+          "type": 8,
+          "value": "comment"
+        },
+        "x": {
+          "type": 3,
+          "value": 70
+        },
+        "y": {
+          "type": 3,
+          "value": 48
+        }
+      }
+    ]
+  }
+}
