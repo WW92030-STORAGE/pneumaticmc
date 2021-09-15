@@ -181,10 +181,42 @@
         }
       },
       {
-        "dropStraight": {
-          "type": 1,
-          "value": 0
+        "string": {
+          "type": 8,
+          "value": "MANUAL SET"
         },
+        "name": {
+          "type": 8,
+          "value": "comment"
+        },
+        "x": {
+          "type": 3,
+          "value": 70
+        },
+        "y": {
+          "type": 3,
+          "value": 27
+        }
+      },
+      {
+        "string": {
+          "type": 8,
+          "value": "MANUAL SET"
+        },
+        "name": {
+          "type": 8,
+          "value": "comment"
+        },
+        "x": {
+          "type": 3,
+          "value": 70
+        },
+        "y": {
+          "type": 3,
+          "value": 48
+        }
+      },
+      {
         "DOWN": {
           "type": 1,
           "value": 1
@@ -199,7 +231,7 @@
         },
         "name": {
           "type": 8,
-          "value": "dropItem"
+          "value": "inventoryExport"
         },
         "x": {
           "type": 3,
@@ -257,7 +289,7 @@
         },
         "y1": {
           "type": 3,
-          "value": 5
+          "value": 4
         },
         "z2": {
           "type": 3,
@@ -269,11 +301,11 @@
         },
         "x1": {
           "type": 3,
-          "value": 15
+          "value": 16
         },
         "y2": {
           "type": 3,
-          "value": 5
+          "value": 4
         },
         "coord2Variable": {
           "type": 8,
@@ -281,43 +313,7 @@
         },
         "x2": {
           "type": 3,
-          "value": 15
-        }
-      },
-      {
-        "string": {
-          "type": 8,
-          "value": "MANUAL SET"
-        },
-        "name": {
-          "type": 8,
-          "value": "comment"
-        },
-        "x": {
-          "type": 3,
-          "value": 70
-        },
-        "y": {
-          "type": 3,
-          "value": 27
-        }
-      },
-      {
-        "string": {
-          "type": 8,
-          "value": "MANUAL SET"
-        },
-        "name": {
-          "type": 8,
-          "value": "comment"
-        },
-        "x": {
-          "type": 3,
-          "value": 70
-        },
-        "y": {
-          "type": 3,
-          "value": 48
+          "value": 16
         }
       }
     ]
